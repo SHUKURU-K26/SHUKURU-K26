@@ -1,16 +1,14 @@
-## Hi there 👋
+## About Me
 
-<!--
-**SHUKURU-K26/SHUKURU-K26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there, I'm Shukuru Kamanzi by the Names, I am a software Developer with 4 years of Experience I develop web and mobile apps using cutting-edge technologies like React, Express, Fast API, and more. I'm more keen about Diving into AI and machine learning algorithms transaforming them into  web-based applications and mobile development.
 
-Here are some ideas to get you started:
+#Tech Stack & Fields
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,html,python,php,react,express,fastapi,mysql,nosql,postgres,tailwind,nodejs,windows,jquery,powershell,sqlite,apache,bootstrap,laravel,css,flutter,dart,cplusplus" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#Fav Repo
+https://github.com/SHUKURU-K26/ENCR-M
+
+#Fave Coding Quote
+"Code is like humor. When you have to explain it, it's bad"
