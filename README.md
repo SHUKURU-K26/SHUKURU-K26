@@ -4,7 +4,7 @@ Hello there, I'm Shukuru Kamanzi by the Names, I am a software Developer with 4 
 
 #Tech Stack & Fields
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,html,python,php,react,express,fastapi,mysql,nosql,postgres,tailwind,nodejs,windows,jquery,powershell,sqlite,apache,bootstrap,laravel,css,flutter,dart,cplusplus" />
+  <img src="https://skillicons.dev/icons?i=javascript,html,python,php,react,express,fastapi,mysql,nosql,postgres,tailwind,nodejs,windows,jquery,powershell,sqlite,apache,bootstrap,laravel,css,flutter,dart,cplusplus,Npm,c++" />
 </p>
 
 #Fav Repo
