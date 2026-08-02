@@ -7,8 +7,9 @@ Hello there, I'm Shukuru Kamanzi by the Names, I am a software Developer with 4 
   <img src="https://skillicons.dev/icons?i=javascript,html,python,php,react,express,fastapi,mysql,nosql,postgres,tailwind,nodejs,windows,jquery,powershell,sqlite,apache,bootstrap,laravel,css,flutter,dart,cplusplus,Npm,c++" />
 </p>
 
-#Fav Repo
+#Fav Repos
 https://github.com/SHUKURU-K26/ENCR-M
+https://github.com/SHUKURU-K26/ferwafa-approving-system
 
 #Fave Coding Quote
 "Code is like humor. When you have to explain it, it's bad"
