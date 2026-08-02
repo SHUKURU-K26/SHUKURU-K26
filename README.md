@@ -8,8 +8,8 @@ Hello there, I'm Shukuru Kamanzi by the Names, I am a software Developer with 4 
 </p>
 
 #Fav Repos
-https://github.com/SHUKURU-K26/ENCR-M
-https://github.com/SHUKURU-K26/ferwafa-approving-system
+https://github.com/SHUKURU-K26/ENCR-M (https://encr-m.netlify.app/)
+https://github.com/SHUKURU-K26/ferwafa-approving-system (https://ferwafa-approvals.netlify.app/)
 
 #Fave Coding Quote
 "Code is like humor. When you have to explain it, it's bad"
